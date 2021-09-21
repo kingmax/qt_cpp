@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>TextFinderClass</class>
- <widget class="QWidget" name="TextFinderClass">
+ <class>TextFinder</class>
+ <widget class="QWidget" name="TextFinder">
   <property name="geometry">
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>379</width>
-    <height>374</height>
+    <width>800</width>
+    <height>600</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,14 +17,14 @@
    <item>
     <layout class="QHBoxLayout" name="horizontalLayout">
      <item>
-      <widget class="QLabel" name="lbKeyword">
+      <widget class="QLabel" name="label">
        <property name="text">
         <string>Keyword:</string>
        </property>
       </widget>
      </item>
      <item>
-      <widget class="QLineEdit" name="leKeyword"/>
+      <widget class="QLineEdit" name="lineEdit"/>
      </item>
      <item>
       <widget class="QPushButton" name="btnFind">
@@ -40,9 +40,6 @@
    </item>
   </layout>
  </widget>
- <layoutdefault spacing="6" margin="11"/>
- <resources>
-  <include location="textfinder.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>

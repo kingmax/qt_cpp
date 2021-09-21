@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qtGui", "..\qtGui\qtGui.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_simple", "..\qt5_qmake\01_simple\01_simple.vcxproj", "{2A244351-FCF0-3B76-9507-B4614F0311E8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextFinder", "..\TextFinder\TextFinder.vcxproj", "{228CE586-2EBB-425F-8512-8B29F7862540}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -27,6 +29,10 @@ Global
 		{2A244351-FCF0-3B76-9507-B4614F0311E8}.Debug|x64.Build.0 = Debug|x64
 		{2A244351-FCF0-3B76-9507-B4614F0311E8}.Release|x64.ActiveCfg = Release|x64
 		{2A244351-FCF0-3B76-9507-B4614F0311E8}.Release|x64.Build.0 = Release|x64
+		{228CE586-2EBB-425F-8512-8B29F7862540}.Debug|x64.ActiveCfg = Debug|x64
+		{228CE586-2EBB-425F-8512-8B29F7862540}.Debug|x64.Build.0 = Debug|x64
+		{228CE586-2EBB-425F-8512-8B29F7862540}.Release|x64.ActiveCfg = Release|x64
+		{228CE586-2EBB-425F-8512-8B29F7862540}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

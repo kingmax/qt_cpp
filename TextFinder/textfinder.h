@@ -12,4 +12,8 @@ public:
 
 private:
     Ui::TextFinderClass ui;
+    void loadTextFile();
+
+private slots:
+    void on_btnFind_clicked();
 };
