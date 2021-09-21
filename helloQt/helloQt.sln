@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "helloQt", "helloQt.vcxproj", "{56D0315F-394B-4106-A9C5-52ACC8829F17}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qtGui", "..\qtGui\qtGui.vcxproj", "{F900D9DF-1026-4488-AE2E-391C30E1C33F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +17,10 @@ Global
 		{56D0315F-394B-4106-A9C5-52ACC8829F17}.Debug|x64.Build.0 = Debug|x64
 		{56D0315F-394B-4106-A9C5-52ACC8829F17}.Release|x64.ActiveCfg = Release|x64
 		{56D0315F-394B-4106-A9C5-52ACC8829F17}.Release|x64.Build.0 = Release|x64
+		{F900D9DF-1026-4488-AE2E-391C30E1C33F}.Debug|x64.ActiveCfg = Debug|x64
+		{F900D9DF-1026-4488-AE2E-391C30E1C33F}.Debug|x64.Build.0 = Debug|x64
+		{F900D9DF-1026-4488-AE2E-391C30E1C33F}.Release|x64.ActiveCfg = Release|x64
+		{F900D9DF-1026-4488-AE2E-391C30E1C33F}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
