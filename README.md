@@ -6,3 +6,5 @@ Qt Visual Studio Tools
 HLSL Tools for Visual Studio
 Highlight all occurrences of selected
 VS 2019
+
+ref: https://zetcode.com/gui/qt5/introduction/
